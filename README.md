@@ -34,7 +34,8 @@
 
 - Place it into the folder:
     ```
-    sudo mv jdk*/ /usr/lib/jvm/
+    sudo mkdir /usr/lib/jvm/jdk-21.0.3/
+    sudo mv jdk*/ /usr/lib/jvm/jdk-21.0.3/
     ```
 
 - Install the java alternatives:
